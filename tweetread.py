@@ -7,10 +7,10 @@ import json
 import datetime
 import csv
 
-consumer_key = 'kk3FTCNtRYSlk4WgfJMGyXYAi'
-consumer_secret = 'uciT4nzxeglPk3Ni72KUWss59R6cMoBO3M9mgAegwBpKR8M8rk'
-access_token = '791176442100932608-bCRbeHZV2kllGnf8qMLITCJkded7tUi'
-access_secret = 'rZh5dCNxNhAyTiRAbeWisfRwOv2R6olVDRDt8NIBfLzzh'
+consumer_key = '###'
+consumer_secret = '###'
+access_token = '###'
+access_secret = '###'
 
 tweets_per_min = {}
 
